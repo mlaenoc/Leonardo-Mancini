@@ -1,12 +1,13 @@
 ---
-title: "Allan Lab - Home"
+title: "Leonardo Mancini - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+Postdoc in the cicutalab (https://people.bss.phy.cam.ac.uk/~pc245/). Herchel Smith fellow, Department of Biochemsitry, University of Cambridge.
+I study all things microbes, particularly when antibiotics are involved. I'll use any technique I'll find useful, lately mostly light microscopy, custom microfluidics and image analysis in python. I am somewhere between biology and physics.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -21,7 +22,7 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
-    <!-- Items -->
+    <!-- Items 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
@@ -70,3 +71,4 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
+-->
